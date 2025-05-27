@@ -1,0 +1,3 @@
+- criar graficos dos vértices com base nas medidas para fazer comparação
+- criar grafos direcionados para avaliar o pagerank*
+- dividir a análise entre cada tipo de medidas
